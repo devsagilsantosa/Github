@@ -1,3 +1,81 @@
 <resources>
     <string name="app_name">Github</string>
+    <string name="dummy_username">devsagilsantosa</string>
+    <string name="dummy_name">Agil Santosa</string>
+
+    <string-array name="username">
+        <item>CDRussell</item>
+        <item>aitorvs</item>
+        <item>marcosholgado</item>
+        <item>cmonfortep</item>
+        <item>malmstein</item>
+        <item>joshliebe</item>
+        <item>anikiki</item>
+        <item>karlenDimla</item>
+        <item>nalcalag</item>
+        <item>nshuba</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Craig Russell</item>
+        <item>Aitor Viana</item>
+        <item>Marcos</item>
+        <item>Cristian Monforte</item>
+        <item>David González</item>
+        <item>Josh Leibstein</item>
+        <item>Ana Capatina</item>
+        <item>Karl Dimla</item>
+        <item>Noelia Alcala</item>
+        <item>Anastasia Shuba</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/avatar_craig_rusell</item>
+        <item>@drawable/img_aitor_viana</item>
+        <item>@drawable/img_marcos</item>
+        <item>@drawable/img_cristian_monforte</item>
+        <item>@drawable/img_david_gonzalez</item>
+        <item>@drawable/img_josh_lebstein</item>
+        <item>@drawable/img_ana_capatina</item>
+        <item>@drawable/img_karl_dimla</item>
+        <item>@drawable/img_noelia_alcala</item>
+        <item>@drawable/img_anastasia_shuba</item>
+    </string-array>
+    <string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array>
+    <string-array name="followers">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
 </resources>
