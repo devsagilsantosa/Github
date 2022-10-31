@@ -44,8 +44,10 @@ class MainActivity : AppCompatActivity() {
 
 
     private fun showRecylerList(){
-        binding.rvUsers.layoutManager = LinearLayoutManager(this)
-        val listUserAdapter = ListUserAdapter(list)
-        binding.rvUsers.adapter = listUserAdapter
+        binding.apply {
+            rvUsers.layoutManager = LinearLayoutManager(this@MainActivity)
+            val listUserAdapter = ListUserAdapter(list)
+            rvUsers.adapter = listUserAdapter
+        }
     }
 }
